@@ -1,0 +1,5 @@
+[http]
+	sslBackend = openssl
+	sslCAInfo = C:/xampp2/htdocs/12_Suzawani_pessdb/pess/Git/mingw64/ssl/certs/ca-bundle.crt
+[credential]
+	helper = manager
